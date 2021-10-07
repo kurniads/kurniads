@@ -2,7 +2,7 @@
 - 👀 I’m interested in Something i Like
 - 🌱 I’m currently learning Some Code Programming
 - 💞️ I’m looking to collaborate on Something
-- 📫 How to reach me Just Call Me
+- 📫 How to reach me Just Call Me 3 Times
 
 <!---
 kurniads/kurniads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
